@@ -194,6 +194,7 @@ public class ActionManager {
         registerAction(new ShowKeyboardShortcutsAction.Descriptor(),        ShowKeyboardShortcutsAction::new);
         registerAction(new ShowParentFoldersQLAction.Descriptor(),          ShowParentFoldersQLAction::new);
         registerAction(new ShowPreferencesAction.Descriptor(),              ShowPreferencesAction::new);
+        registerAction(new ShowPluginManagerAction.Descriptor(),            ShowPluginManagerAction::new);
         registerAction(new ShowRecentExecutedFilesQLAction.Descriptor(),    ShowRecentExecutedFilesQLAction::new);
         registerAction(new ShowRecentLocationsQLAction.Descriptor(),        ShowRecentLocationsQLAction::new);
         registerAction(new ShowRootFoldersQLAction.Descriptor(),            ShowRootFoldersQLAction::new);

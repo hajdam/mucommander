@@ -1,0 +1,9 @@
+puzzle.svg
+  Orchid @ SVG Repo
+  link: svgrepo.com
+  license: MIT License
+
+plugin-cog.png
+  Pastel SVG
+  link: codefisher.org/pastel-svg/
+  license: Creative Commons Attribution NonCommercial Share Alike 4.0

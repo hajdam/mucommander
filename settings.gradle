@@ -19,6 +19,8 @@ include 'mucommander-os-macos'  // JNA accessed via --add-reads=ALL-UNNAMED
 include 'mucommander-os-linux'
 include 'mucommander-os-win'
 include 'mucommander-os-openvms'
+include 'mucommander-plugin'
+include 'mucommander-plugin-catalog'
 
 include 'mucommander-archiver'
 include 'mucommander-format-ar'

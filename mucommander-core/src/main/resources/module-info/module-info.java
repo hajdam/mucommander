@@ -54,6 +54,8 @@ open module org.mucommander.core {
     requires org.mucommander.os.api;
     requires org.mucommander.viewer.api;
     requires org.mucommander.core.preload;
+    requires org.mucommander.plugin;
+    requires org.mucommander.plugin.catalog;
 
     // Export all packages from the analysis
     // Note: com.mucommander.translator is exported by org.mucommander.translator

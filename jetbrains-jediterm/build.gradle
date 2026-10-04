@@ -50,7 +50,7 @@ jar {
         include 'gnu/trove/**'
         include 'jtermios/**'
         include 'purejavacomm/**'
-        include 'org/jetbrains/**'
+        exclude 'org/jetbrains/**'
         include 'resources/com/pty4j/**'
         exclude 'kotlin/**'  // Excluded - on module path
         exclude 'com/sun/jna/**'  // Excluded - on module path

@@ -147,6 +147,7 @@ public enum ActionType {
     ShowKeyboardShortcuts("ShowKeyboardShortcuts"),
     ShowParentFoldersQL("ShowParentFoldersQL"),
     ShowPreferences("ShowPreferences"),
+    ShowPluginManager("ShowPluginManager"),
     ShowRecentExecutedFilesQL("ShowRecentExecutedFilesQL"),
     ShowRecentLocationsQL("ShowRecentLocationsQL"),
     ShowRootFoldersQL("ShowRootFoldersQL"),

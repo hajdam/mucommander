@@ -159,7 +159,9 @@ ext.jpmsModules = [
     'sun-net-www',
     'mucommander-archiver',
     'mucommander-bonjour',
-    'mucommander-protocol-hadoop'
+    'mucommander-protocol-hadoop',
+    'mucommander-plugin',
+    'mucommander-plugin-catalog'
 ]
 
 subprojects {
@@ -290,6 +292,8 @@ dependencies {
     implementation project(':mucommander-os-api')
     implementation project(':mucommander-viewer-api')
     implementation project(':mucommander-core-preload')
+    implementation project(':mucommander-plugin')
+    implementation project(':mucommander-plugin-catalog')
 
     // Protocol modules for JPMS runtime (ServiceLoader discovery)
     runtimeOnly project(':mucommander-protocol-ftp')

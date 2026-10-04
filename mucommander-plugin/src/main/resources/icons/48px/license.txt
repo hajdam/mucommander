@@ -1,0 +1,19 @@
+plugin.png
+  Pastel SVG
+  link: codefisher.org/pastel-svg/
+  license: Creative Commons Attribution NonCommercial Share Alike 4.0
+
+plugin-cog.png
+  Pastel SVG
+  link: codefisher.org/pastel-svg/
+  license: Creative Commons Attribution NonCommercial Share Alike 4.0
+
+basket.png
+  Icooon Mono @ SVG Repo
+  link: svgrepo.com
+  license: public domain
+
+puzzle.png
+  Orchid @ SVG Repo
+  link: svgrepo.com
+  license: MIT License

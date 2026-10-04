@@ -51,6 +51,8 @@ dependencies {
     api project(':mucommander-commons-collections')
     api project(':mucommander-commons-conf')
     api project(':mucommander-commons-file')
+    api project(':mucommander-plugin')
+    api project(':mucommander-plugin-catalog')
 
     implementation 'com.formdev:flatlaf:2.6'
     implementation 'org.apache.commons:commons-collections4:4.4'
